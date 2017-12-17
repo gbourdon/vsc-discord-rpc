@@ -21,11 +21,11 @@
     },
     "ruby": {
         "title": "Ruby",
-        "key": "ruby"
+        "key": "rb"
     },
     "python": {
         "title": "Python",
-        "key": "python"
+        "key": "py"
     },
     "php": {
         "title": "php",
